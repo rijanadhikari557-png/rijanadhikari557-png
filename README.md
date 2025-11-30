@@ -1,5 +1,5 @@
-# Hello World!, I'm Shree 👋🏼:
-🛜 A Tech Enthusiast<br>👨🏼‍🎓 Studying Bachelor of Computer Applications at Hetauda City College
+# Hello World!, I'm Rijan 👋🏼:
+🛜 A Tech Enthusiast<br>👨🏼‍🎓 Studying Bachelor of Computer Applications at Hetauda school of Management
 
 
 # 💻 Tech Stack:
